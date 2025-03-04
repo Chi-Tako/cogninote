@@ -1,0 +1,30 @@
+# Flutter/Dart
+*.iml
+.idea
+.dart_tool
+.packages
+pubspec.lock
+
+# Android
+/android/app/build/
+/android/.gradle
+/android/local.properties
+/android/settings.gradle
+
+# iOS
+/ios/Flutter/AppFrameworkInfo.plist
+/ios/Podfile.lock
+/ios/Pods/
+
+# macOS
+/macos/Flutter/AppFrameworkInfo.plist
+/macos/Podfile.lock
+/macos/Pods/
+
+# Common
+.gradle
+/build/
+
+# OS generated files #
+######################
+.DS_Store
